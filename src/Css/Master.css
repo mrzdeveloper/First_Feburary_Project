@@ -1,0 +1,26 @@
+@font-face {
+    font-family: pFont;
+    src: url("../Fonts/iranyekanwebbold.ttf");
+}
+
+@font-face {
+    font-family: eFont;
+    src: url("../Fonts/iranyekanwebbold.ttf");
+}
+
+* {
+    /* border: 1px solid red; */
+    box-sizing: border-box;
+    background-color: rgb(242, 227, 227);
+}
+
+body {
+    font-family: pFont;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
