@@ -1,0 +1,11 @@
+/* section one style */
+
+.bbb{
+    background-color: rgb(177, 177, 232);
+    
+}
+.ppp{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}

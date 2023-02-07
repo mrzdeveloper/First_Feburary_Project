@@ -17,11 +17,7 @@ const Section1 = () => {
             user.map((item) => {
                 const { id } = item;
                 return (
-
-                    <div key={id}>
-
-                        <p>{id}</p>
-                    </div>
+                        <p className='ppp' style={{display:'inline'}}>{id}</p>
                 )
             })
         }

@@ -11,10 +11,10 @@
 * {
     /* border: 1px solid red; */
     box-sizing: border-box;
-    background-color: rgb(242, 227, 227);
 }
 
 body {
+    background-color: rgb(242, 227, 227);
     font-family: pFont;
     font-size: 16px;
     margin: 0;
