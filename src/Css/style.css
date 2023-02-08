@@ -1,11 +1,30 @@
 /* section one style */
 
-.bbb{
-    background-color: rgb(177, 177, 232);
-    
+img {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    transition: 5s;
+    opacity: calc(100%);
 }
-.ppp{
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
+
+img:hover {
+
+    transition: 5s;
+    opacity: 10;
+}
+
+.slideshow {
+
+    width: 100%;
+    height: 200px;
+    background-color: rgb(185, 90, 90);
+    transition: 5s;
+
+}
+
+.slideshow:hover {
+
+    background-color: aqua;
+    transition: 2s;
 }
