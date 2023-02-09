@@ -5,7 +5,7 @@ const Section2 = () => {
     
     return (<>
     <section className='slideshow'>
-        <span>hi</span>
+        
     </section>
     </>);
 }

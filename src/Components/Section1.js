@@ -5,7 +5,7 @@ const Section1 = () => {
 
     return (
         <div>
-            <img src={require("../Images/images.jpg")} alt="" />
+            {/* <img src={require("../Images/images.jpg")} alt="" /> */}
         </div>
     );
 }
