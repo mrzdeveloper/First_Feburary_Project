@@ -4,7 +4,9 @@ const Apidata = "https://api.github.com/users"
 const Section1 = () => {
 
     return (
-        <div>
+        <div className='container-fluid'>
+
+
             {/* <img src={require("../Images/images.jpg")} alt="" /> */}
         </div>
     );

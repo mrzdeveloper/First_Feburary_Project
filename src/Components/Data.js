@@ -13,3 +13,6 @@ export const Data = [
     },
 
 ];
+
+
+const x = document.getElementById('heaer').innerHTML()

@@ -2,7 +2,10 @@ import React from 'react'
 
 const Modal = () => {
     return (
-        <div>welcome to Modal</div>
+
+        <div className='header' id='header'>
+            ccc
+        </div>
     )
 }
 
